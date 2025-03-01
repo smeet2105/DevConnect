@@ -1,4 +1,0 @@
-{
-    "mongoURI":"mongodb+srv://dc-devl-db-admin:QWEasd123%21%40%23@devconn-devl-hyd-01.qty7w.mongodb.net/",
-    "jwtSecret":"mysecrettoken"
-}
